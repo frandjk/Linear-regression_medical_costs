@@ -1,1 +1,1 @@
-# Multiple-regression
+# Linear-regression
