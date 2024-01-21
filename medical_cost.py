@@ -27,5 +27,5 @@ ax.set_title('Scatter plot of Charges vs age')
 
 ax = f.add_subplot(122)
 sns.scatterplot(x = 'bmi',y = 'charges',data = df,palette = 'viridis',hue = 'smoker')
-ax.set_title('Scatter plot of Charges vs bmi')
+ax.set_title('Scatter plot of Charges vs BMI')
 
