@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
 plt.rcParams['figure.figsize'] = [8, 8]
 plt.rcParams['font.size'] = 14
 plt.rcParams['font.weight'] = 'bold'
